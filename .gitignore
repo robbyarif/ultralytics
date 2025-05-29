@@ -1,0 +1,19 @@
+# venv
+.venv/
+
+# datasets
+datasets/
+
+# YOLO runs 
+runs/
+
+# Temp inference files
+outputs/
+
+# ipynb
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
